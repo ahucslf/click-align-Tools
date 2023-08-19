@@ -24,3 +24,12 @@
 - 输出模式0 全输出
 - 输出模式1 只输出配准后的棋盘格效果图
 - 输出模式2 全输出除了配准后的棋盘格效果图
+
+> Acknowledgment：
+This work was jointly supported by National Natural Science Foundation of
+China (No. 62006002), the Joint Funds of the National Natural Science Foun-
+dation of China (No.U20B2068), Natural Science Foundation of Anhui Province
+(No. 2208085J18), Natural Science Foundation of Anhui Higher Education In-
+stitution (No. 2022AH040014), the University Synergy Innovation Program of
+Anhui Province (No. GXXT-2022-033) and Anhui Provincial Colleges Science
+Foundation for Distinguished Young Scholars (No. 2022AH020093).
